@@ -1,0 +1,15 @@
+{
+  "name": "deta",
+  "description": "Deta plugins for coding agents.",
+  "owner": {
+    "name": "Deta Studio",
+    "url": "https://www.deta.studio"
+  },
+  "plugins": [
+    {
+      "name": "deta",
+      "source": "./",
+      "description": "Lets coding agents work with Deta drawings, markups, takeoff tables, page scales and product libraries through the Deta CLI."
+    }
+  ]
+}

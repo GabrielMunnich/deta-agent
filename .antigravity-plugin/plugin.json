@@ -1,0 +1,18 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "deta",
+  "displayName": "Deta",
+  "version": "0.1.0",
+  "description": "Lets coding agents work with Deta drawings, markups, takeoff tables, page scales and product libraries through the Deta CLI.",
+  "suggestedPrompts": [
+    "Connect to Deta and show which drawing is selected",
+    "List the markups on page 1 of my Deta drawing"
+  ],
+  "author": {
+    "name": "Deta Studio",
+    "url": "https://www.deta.studio"
+  },
+  "homepage": "https://www.deta.studio",
+  "license": "MIT",
+  "keywords": ["deta", "drawings", "markups", "takeoff", "aec"]
+}
