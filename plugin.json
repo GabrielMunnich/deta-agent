@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "deta",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Lets coding agents work with Deta drawings, markups, takeoff tables, page scales and product libraries through the Deta CLI.",
   "author": {
     "name": "Deta Studio",

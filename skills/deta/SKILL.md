@@ -9,7 +9,7 @@ The Deta CLI reads and writes drawings, markups, takeoff tables, page scales and
 
 ## Run the CLI
 
-Run it as `npx -y @deta-studio/cli <args>` (Node 20 or later). Below, `deta` stands for `npx -y @deta-studio/cli`. Sandboxed agents such as Codex need network access approved for these commands.
+Run it as `npx -y @deta-studio/cli@latest <args>` (Node 20 or later). Below, `deta` stands for `npx -y @deta-studio/cli@latest`. Sandboxed agents such as Codex need network access approved for these commands.
 
 ## Connect
 
