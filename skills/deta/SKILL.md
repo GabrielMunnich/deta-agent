@@ -17,6 +17,8 @@ Run it as `npx -y @deta-studio/cli@latest <args>` (Node 20 or later). Below, `de
 2. If nobody is signed in, ask the user for the email of their Deta account and run `deta login --email <email>`. Deta emails them a sign-in code: ask for it, then run `deta login --email <email> --code <code>`. The sign-in stays on this computer for later chats. `deta login` alone signs in through the browser instead.
 3. Run `deta open <drawing URL>` to select the drawing for commands run in this directory. Ask the user for the drawing link when none is selected.
 
+To sign out, run `deta logout`.
+
 ## Learn the contract
 
 - `deta help` lists the commands, and `deta help <command>` gives exact arguments.
